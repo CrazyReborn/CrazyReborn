@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrazyReborn
 - 👀 I’m interested in learning Full Stack
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @VladisKuznetsov on twitter
 
