@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrazyReborn
 - 👀 I’m interested in learning Full Stack
-- 🌱 I’m currently learning Alhorithms
+- 🌱 I’m currently learning Nest.js and Docker
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me @VladisKuznetsov on twitter
 
